@@ -1,0 +1,14 @@
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\bin\Debug\net8.0\FixUCarApp.exe
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\bin\Debug\net8.0\FixUCarApp.deps.json
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\bin\Debug\net8.0\FixUCarApp.runtimeconfig.json
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\bin\Debug\net8.0\FixUCarApp.dll
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\bin\Debug\net8.0\FixUCarApp.pdb
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\FixUCarApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\FixUCarApp.AssemblyInfoInputs.cache
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\FixUCarApp.AssemblyInfo.cs
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\FixUCarApp.csproj.CoreCompileInputs.cache
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\FixUCarApp.dll
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\refint\FixUCarApp.dll
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\FixUCarApp.pdb
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\FixUCarApp.genruntimeconfig.cache
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\ref\FixUCarApp.dll
