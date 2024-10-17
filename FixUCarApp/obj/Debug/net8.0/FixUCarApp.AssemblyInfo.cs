@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FixUCarApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23af183109da11dc580dd48df00c1c54bc54bd43")]
 [assembly: System.Reflection.AssemblyProductAttribute("FixUCarApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FixUCarApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

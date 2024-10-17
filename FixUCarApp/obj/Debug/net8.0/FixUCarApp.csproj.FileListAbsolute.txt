@@ -12,3 +12,4 @@ E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\refint\FixUC
 E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\FixUCarApp.pdb
 E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\FixUCarApp.genruntimeconfig.cache
 E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\ref\FixUCarApp.dll
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarApp\obj\Debug\net8.0\FixUCarApp.sourcelink.json

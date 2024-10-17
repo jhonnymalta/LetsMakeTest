@@ -103,3 +103,4 @@ E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarAppTest\obj\Debug\net8.0\refint\F
 E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarAppTest\obj\Debug\net8.0\FixUCarAppTest.pdb
 E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarAppTest\obj\Debug\net8.0\FixUCarAppTest.genruntimeconfig.cache
 E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarAppTest\obj\Debug\net8.0\ref\FixUCarAppTest.dll
+E:\DotnetApps\LetsMakeTest\LestMakeTest\FixUCarAppTest\obj\Debug\net8.0\FixUCarAppTest.sourcelink.json
